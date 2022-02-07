@@ -90,14 +90,14 @@ a:hover {
 
 .top-earth {
   position: absolute;
-  right: 150px;
-  top: 60px;
+  right: 300px;
+  top: 40px;
 }
 
 .bottom-galaxy {
   position: absolute;
-  left: 10px;
-  bottom: -50px;
+  left: 250px;
+  bottom: 300px;
 }
 
 .game-img {
